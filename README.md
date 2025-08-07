@@ -37,6 +37,13 @@ This project predicts the tuition costs of over 600 U.S. colleges based on a com
 
 Our pipeline demonstrated strong performance across all major regression techniques, with Gradient Boosting and Ridge performing particularly well. Neural networks also showed promise but required careful hyperparameter tuning. We ranked 2nd in our class competition and significantly outperformed the baseline model.
 
+## Collaborators
+
+- David Bazzett
+- Siya Vyas
+- Tirth Shah
+- Medhasri Veldurthi
+
 ## Contact
 
 For questions or collaboration, feel free to reach out!
