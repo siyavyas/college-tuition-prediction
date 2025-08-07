@@ -1,5 +1,3 @@
-# college-tuition-prediction
-
 # College Tuition Prediction
 
 This project predicts the tuition costs of over 600 U.S. colleges based on a combination of institutional and geographic features. We applied feature engineering techniques and trained multiple regression models to uncover trends and drivers of college pricing.
