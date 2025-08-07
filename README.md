@@ -16,7 +16,7 @@ This project predicts the tuition costs of over 600 U.S. colleges based on a com
   - Baseline RMSE: **13,086.66** → Achieved a **55% improvement**
 - **Team Rank**: 2nd out of 13 teams
 
-## 📁 Files
+## Files
 
 - `final_proj.ipynb`: Main notebook with data exploration, feature engineering, model training, evaluation, and results.
 
